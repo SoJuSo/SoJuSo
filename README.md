@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=SoJuSo)
+![reversal](https://capsule-render.vercel.app/api?type=Soft&reversal=true&color=gradient&text=SoJuSo)
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
