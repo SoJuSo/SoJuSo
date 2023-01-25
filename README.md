@@ -1,6 +1,10 @@
 ## Hi there 👋
 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoJuSo&show_icons=true&theme=radical)
+
+
 <!--
 **SoJuSo/SoJuSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
