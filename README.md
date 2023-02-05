@@ -1,6 +1,6 @@
 ## 💡 ABOUT ME
 ![reversal](https://capsule-render.vercel.app/api?type=Soft&reversal=true&color=gradient&text=SoJuSo)
-- I hope Full Stack Developer
+- I hope to be a Full Stack Developer
 - I’m currently learning Frontend, javascript and Computer Science
 
 ## ✨ STACK
