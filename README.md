@@ -12,7 +12,9 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoJuSo&show_icons=true&theme=radical)
 
-
+<br/>
+Gear<br/>
+MacBook Air M2 13.6
 <!--
 **SoJuSo/SoJuSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
