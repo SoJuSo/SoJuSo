@@ -18,7 +18,7 @@
 
 <br/>
 MacBook Air M2 13.6
-
+<br/>
 <!--
 **SoJuSo/SoJuSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
