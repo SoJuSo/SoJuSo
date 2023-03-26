@@ -16,8 +16,6 @@
 <br/>
 
 ## ⚙ Gear
-
-<br/>
 MacBook Air M2 13.6
 <br/>
 <!--
