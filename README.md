@@ -1,7 +1,7 @@
 ## 💡 ABOUT ME
 ![reversal](https://capsule-render.vercel.app/api?type=Soft&reversal=true&color=gradient&text=SoJuSo)
 - I want to be a FE Developer!
-- I’m currently learning javascript, CSS, HTML, Web and Computer Science
+- I’m currently learning JavaScript, CSS, HTML, Web and Computer Science
 
 ## ✨ LEARNING
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-686de0?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-f9ca24?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> & WEB
