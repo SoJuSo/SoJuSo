@@ -8,7 +8,7 @@
 ## ✨ NOW LEARNING
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-686de0?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-f9ca24?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> & WEB Structure
 
-## 📚 My History
+## 📚 MY HISTORY
 🎓 2017.03 ~ 2024.02 Ajou University, Department of Software<br/>
 ⛺️ 2023.09 ~ 2024.03 Programmers DevCourse BootCamp, Web Frontend Engineering
 
