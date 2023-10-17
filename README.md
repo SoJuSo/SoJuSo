@@ -1,6 +1,6 @@
 ## 💡 ABOUT ME
 ![reversal](https://capsule-render.vercel.app/api?type=Soft&reversal=true&color=gradient&text=SoJuSo)
-- Hello!! My name is Kim SeokJu from 🇰🇷
+- Hello! My name is Kim SeokJu from 🇰🇷
 - I want to be a software engineer.
 - I hope to start my career in frontend development.
 - I’m currently learning JavaScript, CSS, HTML, Web and Computer Science
