@@ -21,7 +21,6 @@ English speaking & listening, IT Gear, BasketBall
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoJuSo&show_icons=true&theme=radical)
 -->
-<br/>
 
 ## ⚙ Gear
 MacBook Air M2 13.6<br />
