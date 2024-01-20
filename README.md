@@ -3,10 +3,20 @@
 - Hello! My name is Kim SeokJu from 🇰🇷
 - I want to be a software engineer.
 - I hope to start my career in frontend development.
-- I’m currently learning JavaScript, CSS, HTML, JavaScript, TypeScript, React, Vue, Web and Computer Science
+- I studied Computer Science at Ajou University in the Department of Software Engineering.
 
-## ✨ NOW LEARNING
-<img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-686de0?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-f9ca24?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> & WEB Structure
+## Resume
+Todo
+
+## ✨ Skills
+### 🔥Most Used Skills
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white&"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white&"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white&"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white&"/> <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=Styled-Components&logoColor=white&"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&amp;logoColor=white">
+
+### ✅Experienced Skills
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+
+## 🤝Collaboration & Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 
 ## 📚 MY HISTORY
 🎓 2017.03 ~ 2024.02 Ajou University, Department of Software<br/>
