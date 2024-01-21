@@ -2,7 +2,7 @@
 ![reversal](https://capsule-render.vercel.app/api?type=Soft&reversal=true&color=gradient&text=SoJuSo)
 - Hello! My name is Kim SeokJu from 🇰🇷
 - I want to be a software engineer.
-- I hope to start my career in frontend development.
+- I hope to start my career as Frontend Engineer.
 - I studied Computer Science at Ajou University in the Department of Software Engineering.
 
 ## 📄 RESUME
