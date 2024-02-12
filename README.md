@@ -26,7 +26,7 @@ Todo
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=Cypress&logoColor=white"/>
 
 ## 📚 MY HISTORY
-🎓 2017.03 ~ 2024.02 Ajou University, Department of Software<br/>
+🎓 2017.03 ~ 2024.08 Ajou University, Department of Software<br/>
 ⛺️ 2023.09 ~ 2024.03 Programmers DevCourse BootCamp, Web Frontend Engineering
 
 ## ⚡ INTERSETED IN
