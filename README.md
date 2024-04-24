@@ -5,8 +5,14 @@
 - I hope to start my career as Frontend Engineer.
 - I studied Computer Science at Ajou University in the Department of Software Engineering.
 
-## 📄 RESUME
-Todo
+## 📄 Blog Posting
+<div align="left">
+<a href="https://shqpdltm.tistory.com/49" target="_blank">내 웹사이트에서 사용자는 어떤 행동을 할까? feat. hotjar🔥</a><br />
+<a href="https://shqpdltm.tistory.com/47" target="_blank">[프론트엔드 데브코스 월간 회고] 5,6차 단위기간(24.01.19 ~ 24.03.25) 프로젝트 kiwing 회고 (1/2)</a><br />
+<a href="https://shqpdltm.tistory.com/46" target="_blank">프로젝트에서 팀장 역할을 맡으며 했던 고민들</a><br />
+<a href="https://shqpdltm.tistory.com/45" target="_blank">[프론트엔드 데브코스 월간 회고] 4차 단위기간(23.12.19 ~ 24.01.18) 프로젝트 looky 회고</a><br />
+<a href="https://shqpdltm.tistory.com/44" target="_blank">[React, JS] 프론트엔드에서 민감정보 암호화 적용하기</a>
+</div>
 
 ## ✨ SKILLS
 ### 🔥 Most Used Skills
