@@ -20,8 +20,6 @@
 <br />
 <br />
 <a href="https://shqpdltm.tistory.com/44" target="_blank">[React, JS] 프론트엔드에서 민감정보 암호화 적용하기</a>
-<br />
-<br />
 </div>
 
 ## ✨ SKILLS
