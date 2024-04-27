@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sojuso&locale=ko" alt="GitHub Streak">
+  </a>
+</div>
+
 ## 💡 ABOUT ME
 ![reversal](https://capsule-render.vercel.app/api?type=Soft&reversal=true&color=gradient&text=SoJuSo)
 - Hello! My name is Kim SeokJu from 🇰🇷
