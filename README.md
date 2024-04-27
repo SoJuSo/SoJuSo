@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sojuso&locale=ko" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=sojuso" alt="GitHub Streak">
   </a>
 </div>
 
