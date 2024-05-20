@@ -1,5 +1,5 @@
 ## 💡 ABOUT ME
-안녕하세요. 프론트엔드 엔지니어 지망생 김석주입니다.
+안녕하세요. 프론트엔드 엔지니어 지망생 김석주입니다.<br />
 <br />
 [![Tistory Badge](https://img.shields.io/badge/학습_블로그-shqpdltm.tistory.com-ff5a4a?style=flat-square&logo=Tistory)](https://shqpdltm.tistory.com/)
 [![Velog Badge](https://img.shields.io/badge/TIL용_Velog-@asdfg7123-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@asdfg7123/)
