@@ -22,7 +22,7 @@ const RSS_URL = "https://shqpdltm.tistory.com/rss";
 
     let content = `\n\n`;
     latestPosts.forEach((post, index) => {
-      content += `${index + 1}. [${post.title[0]}](${post.link[0]})\n`;
+      content += `${index + 1}. <a href="${post.link[0]}" target="_blank">${post.title[0]}</a>\n`;
     });
 
     const readmeContent = fs.readFileSync("README.md", "utf8");
