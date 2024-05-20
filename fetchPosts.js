@@ -2,7 +2,8 @@ const axios = require("axios");
 const xml2js = require("xml2js");
 const fs = require("fs");
 
-const RSS_URL = "https://v2.velog.io/rss/asdfg7123";
+const RSS_URL = "https://shqpdltm.tistory.com/rss";
+// const RSS_URL = "https://v2.velog.io/rss/asdfg7123"; // 벨로그도 되는거 확인
 
 (async () => {
   try {
