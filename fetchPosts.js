@@ -20,7 +20,7 @@ const RSS_URL = "https://shqpdltm.tistory.com/rss";
     const items = result.rss.channel[0].item;
     const latestPosts = items.slice(0, 5);
 
-    let content = `# 최신 블로그 포스트\n\n`;
+    let content = "";
     latestPosts.forEach((post, index) => {
       content += `${index + 1}. [${post.title[0]}](${post.link[0]})\n`;
     });
