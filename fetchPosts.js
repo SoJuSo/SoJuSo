@@ -25,15 +25,11 @@ const RSS_URL = "https://shqpdltm.tistory.com/rss";
       content += `${index + 1}. [${post.title[0]}](${post.link[0]})\n`;
     });
 
-    console.log(content);
-
     const readmeContent = fs.readFileSync("README.md", "utf8");
     const updatedReadmeContent = readmeContent.replace(
       /<!-- LATEST_POSTS -->[\s\S]*<!-- LATEST_POSTS_END -->/,
       `<!-- LATEST_POSTS -->\n${content}\n<!-- LATEST_POSTS_END -->`
     );
-
-    console.log(readmeContent, updatedReadmeContent);
 
     if (updatedReadmeContent !== readmeContent) {
       console.log("Updating README.md with new content.");
