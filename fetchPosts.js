@@ -33,6 +33,8 @@ const RSS_URL = "https://shqpdltm.tistory.com/rss";
       `<!-- LATEST_POSTS -->\n${content}\n<!-- LATEST_POSTS_END -->`
     );
 
+    console.log(readmeContent, updatedReadmeContent);
+
     if (updatedReadmeContent !== readmeContent) {
       console.log("Updating README.md with new content.");
       fs.writeFileSync("README.md", updatedReadmeContent);
