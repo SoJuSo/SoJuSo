@@ -21,7 +21,7 @@ const RSS_URL = "https://shqpdltm.tistory.com/rss";
     const items = result.rss.channel[0].item;
     const latestPosts = items.slice(0, 5);
 
-    let content = `\n\n`;
+    let content = `\n`;
     latestPosts.forEach((post, index) => {
       content += `${index + 1}. <a href="${post.link[0]}" target="_blank">${post.title[0]}</a>\n`;
     });
