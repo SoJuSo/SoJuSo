@@ -11,7 +11,7 @@
 - I hope to start my career as Frontend Engineer.
 - I studied Computer Science at Ajou University in the Department of Software Engineering.
 
-## 📄 Blog Posting
+## 📄 Recent Blog Posting
 <div align="left">
 <a href="https://shqpdltm.tistory.com/52" target="_blank">자바스크립트 console.log()에 대한 고찰</a>
 <br />
