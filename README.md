@@ -13,19 +13,7 @@
 
 ## 📄 Recent Blog Posting
 <div align="left">
-<a href="https://shqpdltm.tistory.com/52" target="_blank">자바스크립트 console.log()에 대한 고찰</a>
-<br />
-<br />
-<a href="https://shqpdltm.tistory.com/51" target="_blank">백준 JS 코테 파일을 자동 생성 스크립트로 만들어보자!</a>
-<br />
-<br />
-<a href="https://shqpdltm.tistory.com/49" target="_blank">내 웹사이트에서 사용자는 어떤 행동을 할까? feat. hotjar🔥</a>
-<br />
-<br />
-<a href="https://shqpdltm.tistory.com/47" target="_blank">[프론트엔드 데브코스 월간 회고] 5,6차 단위기간(24.01.19 ~ 24.03.25) 프로젝트 kiwing 회고 (1/2)</a>
-<br />
-<br />
-<a href="https://shqpdltm.tistory.com/46" target="_blank">프로젝트에서 팀장 역할을 맡으며 했던 고민들</a>
+<!-- LATEST_POSTS -->
 </div>
 
 ## ✨ SKILLS
