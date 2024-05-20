@@ -13,6 +13,9 @@
 
 ## 📄 Blog Posting
 <div align="left">
+<a href="https://shqpdltm.tistory.com/52" target="_blank">자바스크립트 console.log()에 대한 고찰</a>
+<br />
+<br />
 <a href="https://shqpdltm.tistory.com/51" target="_blank">백준 JS 코테 파일을 자동 생성 스크립트로 만들어보자!</a>
 <br />
 <br />
@@ -23,9 +26,6 @@
 <br />
 <br />
 <a href="https://shqpdltm.tistory.com/46" target="_blank">프로젝트에서 팀장 역할을 맡으며 했던 고민들</a>
-<br />
-<br />
-<a href="https://shqpdltm.tistory.com/44" target="_blank">[React, JS] 프론트엔드에서 민감정보 암호화 적용하기</a>
 </div>
 
 ## ✨ SKILLS
