@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 매 시간마다 실행
+    - cron: "0 * * * *" # 매 시간마다 실행
   push:
     branches:
       - main
@@ -17,7 +17,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'
+          node-version: "14"
 
       - name: Install dependencies
         run: npm install rss-parser
@@ -25,10 +25,15 @@ jobs:
       - name: Fetch latest blog posts
         run: node fetchPosts.js
 
+      - name: Show changes
+        run: |
+          echo "Changed files:"
+          git status
+
       - name: Update README
         run: |
-          git config --global user.name 'SoJuSo'
-          git config --global user.email 'asdfg7123@gmail.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m 'Update README with latest blog posts'
+          git commit -m 'Update README with latest blog posts' || echo "No changes to commit"
           git push
