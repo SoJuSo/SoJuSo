@@ -1,24 +1,28 @@
-const Parser = require("rss-parser");
+const axios = require("axios");
+const xml2js = require("xml2js");
 const fs = require("fs");
 
 const RSS_URL = "https://shqpdltm.tistory.com/rss";
 
 (async () => {
-  const parser = new Parser({
-    customHeaders: {
-      "User-Agent":
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-      Accept: "application/rss+xml, application/xml; q=0.9, */*; q=0.8",
-    },
-  });
-
   try {
-    const feed = await parser.parseURL(RSS_URL);
-    const latestPosts = feed.items.slice(0, 5);
+    const response = await axios.get(RSS_URL, {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        Accept: "application/rss+xml, application/xml; q=0.9, */*; q=0.8",
+      },
+    });
+
+    const data = response.data;
+    const parser = new xml2js.Parser();
+    const result = await parser.parseStringPromise(data);
+    const items = result.rss.channel[0].item;
+    const latestPosts = items.slice(0, 5);
 
     let content = `# 최신 블로그 포스트\n\n`;
     latestPosts.forEach((post, index) => {
-      content += `${index + 1}. [${post.title}](${post.link})\n`;
+      content += `${index + 1}. [${post.title[0]}](${post.link[0]})\n`;
     });
 
     const readmeContent = fs.readFileSync("README.md", "utf8");

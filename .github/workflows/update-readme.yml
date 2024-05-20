@@ -20,7 +20,7 @@ jobs:
           node-version: "14"
 
       - name: Install dependencies
-        run: npm install rss-parser
+        run: npm install axios xml2js
 
       - name: Fetch latest blog posts
         run: node fetchPosts.js
