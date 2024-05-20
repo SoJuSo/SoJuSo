@@ -13,7 +13,7 @@
 
 ## 📄 Recent Blog Posting
 <div align="left">
-<!-- LATEST_POSTS -->
+<!-- LATEST_POSTS --><!-- LATEST_POSTS_END -->
 </div>
 
 ## ✨ SKILLS
