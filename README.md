@@ -14,8 +14,6 @@
 ## 📄 Recent Blog Posting
 <div align="left">
 <!-- LATEST_POSTS -->
-# 최신 블로그 포스트
-
 1. [자바스크립트 console.log()에 대한 고찰](https://shqpdltm.tistory.com/52)
 2. [백준 JS 코테 파일을 자동 생성 스크립트로 만들어보자!](https://shqpdltm.tistory.com/51)
 3. [홍보의 신 | 김선태](https://shqpdltm.tistory.com/50)
