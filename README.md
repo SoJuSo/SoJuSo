@@ -16,11 +16,11 @@
 <!-- LATEST_POSTS -->
 
 
-1. <a href="https://velog.io/@asdfg7123/TIL-24.05.18-%EC%9D%BC%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.19 일요일</a>
-2. <a href="https://velog.io/@asdfg7123/TIL-24.05.18-%ED%86%A0%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.18 토요일</a>
-3. <a href="https://velog.io/@asdfg7123/TIL-24.05.17-%EA%B8%88%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.17 금요일</a>
-4. <a href="https://velog.io/@asdfg7123/TIL-24.05.16-%EB%AA%A9%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.16 목요일</a>
-5. <a href="https://velog.io/@asdfg7123/TIL-24.05.15-%EC%88%98%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.15 수요일</a>
+1. <a href="https://shqpdltm.tistory.com/52" target="_blank">자바스크립트 console.log()에 대한 고찰</a>
+2. <a href="https://shqpdltm.tistory.com/51" target="_blank">백준 JS 코테 파일을 자동 생성 스크립트로 만들어보자!</a>
+3. <a href="https://shqpdltm.tistory.com/50" target="_blank">홍보의 신 | 김선태</a>
+4. <a href="https://shqpdltm.tistory.com/49" target="_blank">내 웹사이트에서 사용자는 어떤 행동을 할까? feat. hotjar </a>
+5. <a href="https://shqpdltm.tistory.com/47" target="_blank">[프론트엔드 데브코스 월간 회고] 5,6차 단위기간(24.01.19 ~ 24.03.25) 프로젝트 kiwing 회고 (1/2)</a>
 
 <!-- LATEST_POSTS_END -->
 </div>
