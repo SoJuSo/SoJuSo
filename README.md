@@ -13,7 +13,6 @@
 <div align="left">
 <!-- LATEST_POSTS -->
 
-
 1. <a href="https://shqpdltm.tistory.com/52" target="_blank">자바스크립트 console.log()에 대한 고찰</a>
 2. <a href="https://shqpdltm.tistory.com/51" target="_blank">백준 JS 코테 파일을 자동 생성 스크립트로 만들어보자!</a>
 3. <a href="https://shqpdltm.tistory.com/50" target="_blank">홍보의 신 | 김선태</a>
