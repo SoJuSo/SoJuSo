@@ -13,11 +13,11 @@
 <div align="left">
 <!-- LATEST_POSTS -->
 
-1. <a href="https://shqpdltm.tistory.com/53" target="_blank">[프론트엔드 데브코스 월간 회고] 5,6차 단위기간(24.01.19 ~ 24.03.25) 프로젝트 kiwing 회고 (2/2)</a>
-2. <a href="https://shqpdltm.tistory.com/52" target="_blank">자바스크립트 console.log()에 대한 고찰</a>
-3. <a href="https://shqpdltm.tistory.com/51" target="_blank">백준 JS 코테 파일을 자동 생성 스크립트로 만들어보자!</a>
-4. <a href="https://shqpdltm.tistory.com/50" target="_blank">홍보의 신 | 김선태</a>
-5. <a href="https://shqpdltm.tistory.com/49" target="_blank">내 웹사이트에서 사용자는 어떤 행동을 할까? feat. hotjar </a>
+1. <a href="https://shqpdltm.tistory.com/54" target="_blank">GitHub README에 기술 블로그 최근 글 자동으로 업데이트 시키기</a>
+2. <a href="https://shqpdltm.tistory.com/53" target="_blank">[프론트엔드 데브코스 월간 회고] 5,6차 단위기간(24.01.19 ~ 24.03.25) 프로젝트 kiwing 회고 (2/2)</a>
+3. <a href="https://shqpdltm.tistory.com/52" target="_blank">자바스크립트 console.log()에 대한 고찰</a>
+4. <a href="https://shqpdltm.tistory.com/51" target="_blank">백준 JS 코테 파일을 자동 생성 스크립트로 만들어보자!</a>
+5. <a href="https://shqpdltm.tistory.com/50" target="_blank">홍보의 신 | 김선태</a>
 
 <!-- LATEST_POSTS_END -->
 </div>
