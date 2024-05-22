@@ -1,15 +1,18 @@
 ## 💡 ABOUT ME
+
 안녕하세요. 프론트엔드 엔지니어 지망생 김석주입니다.<br />
 <br />
 [![Tistory Badge](https://img.shields.io/badge/학습_블로그-shqpdltm.tistory.com-ff5a4a?style=flat-square&logo=Tistory)](https://shqpdltm.tistory.com/)
 [![Velog Badge](https://img.shields.io/badge/TIL용_Velog-@asdfg7123-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@asdfg7123/)
 
 ## ✨ SKILL
-| Language 	| Libraries <br /> Frameworks | Dev Styles | Infra & DevOps |
-|-------------|---------------------------------   |-----------------------	| :----------------------: |
-|  <img src="https://skillicons.dev/icons?i=js,ts&perline="/> |   <img src="https://skillicons.dev/icons?i=react,vue&perline="/><br/> |  <img src="https://skillicons.dev/icons?i=styledcomponents,sass&perline="/><br/> |  <img src="https://skillicons.dev/icons?i=aws,vercel,vite&perline="/> <br/> <img src="https://skillicons.dev/icons?i=githubactions,ubuntu,discord&perline="/>|
+
+| Language                                                   | Libraries <br /> Frameworks                                         | Dev Styles                                                                      |                                                                        Infra & DevOps                                                                        |
+| ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=js,ts&perline="/> | <img src="https://skillicons.dev/icons?i=react,vue&perline="/><br/> | <img src="https://skillicons.dev/icons?i=styledcomponents,sass&perline="/><br/> | <img src="https://skillicons.dev/icons?i=aws,vercel,vite&perline="/> <br/> <img src="https://skillicons.dev/icons?i=githubactions,ubuntu,discord&perline="/> |
 
 ## 📄 최근 블로그 포스팅
+
 <div align="left">
 <!-- LATEST_POSTS -->
 
@@ -23,11 +26,12 @@
 </div>
 <details>
   <summary>최근 TIL 작성 목록</summary>
-<!-- LATEST_TIL -->
-<!-- LATEST_TIL_END -->
+<!-- LATEST_TILS -->
+<!-- LATEST_TILS_END -->
 </details>
 
 ## 🎯커밋 챌린지 from 2023.09.14
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sojuso" alt="GitHub Streak">
