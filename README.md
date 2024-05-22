@@ -21,6 +21,11 @@
 
 <!-- LATEST_POSTS_END -->
 </div>
+<details>
+  <summary>최근 TIL 작성 목록</summary>
+<!-- LATEST_TIL -->
+<!-- LATEST_TIL_END -->
+</details>
 
 ## 🎯커밋 챌린지 from 2023.09.14
 <div align="center">
@@ -28,3 +33,5 @@
     <img src="https://streak-stats.demolab.com?user=sojuso" alt="GitHub Streak">
   </a>
 </div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoJuSo&count_bg=%2350A1DF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
