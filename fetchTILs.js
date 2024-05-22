@@ -1,0 +1,43 @@
+const axios = require("axios");
+const xml2js = require("xml2js");
+const fs = require("fs");
+
+const RSS_URL = "https://v2.velog.io/rss/asdfg7123"; // 벨로그도 되는거 확인
+
+(async () => {
+  try {
+    const response = await axios.get(RSS_URL, {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        Accept: "application/rss+xml, application/xml; q=0.9, */*; q=0.8",
+      },
+    });
+
+    const data = response.data;
+    const parser = new xml2js.Parser();
+    const result = await parser.parseStringPromise(data);
+    const items = result.rss.channel[0].item;
+    const latestPosts = items.slice(0, 5);
+
+    let content = `\n`;
+    latestPosts.forEach((post, index) => {
+      content += `${index + 1}. <a href="${post.link[0]}" target="_blank">${post.title[0]}</a>\n`;
+    });
+
+    const readmeContent = fs.readFileSync("README.md", "utf8");
+    const updatedReadmeContent = readmeContent.replace(
+      /<!-- LATEST_TILS -->[\s\S]*<!-- LATEST_TILS_END -->/,
+      `<!-- LATEST_TILS -->\n${content}\n<!-- LATEST_TILS_END -->`
+    );
+
+    if (updatedReadmeContent !== readmeContent) {
+      console.log("Updating README.md with new content.");
+      fs.writeFileSync("README.md", updatedReadmeContent);
+    } else {
+      console.log("No updates to README.md needed.");
+    }
+  } catch (error) {
+    console.error("Error fetching RSS feed:", error);
+  }
+})();

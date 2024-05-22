@@ -1,0 +1,39 @@
+name: Update README TIL
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매 시간마다 실행
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install axios xml2js
+
+      - name: Fetch latest blog posts
+        run: node fetchTILs.js
+
+      - name: Show changes
+        run: |
+          echo "Changed files:"
+          git status
+
+      - name: Update README
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update README with latest TIL posts' || echo "No changes to commit"
+          git push
