@@ -28,11 +28,11 @@
   <summary>최근 TIL 작성 목록</summary>
 <!-- LATEST_TILS -->
 
-1. <a href="https://velog.io/@asdfg7123/TIL-24.05.23-%EB%AA%A9%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.23 목요일</a>
-2. <a href="https://velog.io/@asdfg7123/TIL-24.05.22-%EC%88%98%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.22 수요일</a>
-3. <a href="https://velog.io/@asdfg7123/TIL-24.05.21-%ED%99%94%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.21 화요일</a>
-4. <a href="https://velog.io/@asdfg7123/TIL-24.05.20-%EC%9B%94%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.20 월요일</a>
-5. <a href="https://velog.io/@asdfg7123/TIL-24.05.18-%EC%9D%BC%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.19 일요일</a>
+1. <a href="https://velog.io/@asdfg7123/TIL-24.05.24-%EA%B8%88%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.24 금요일</a>
+2. <a href="https://velog.io/@asdfg7123/TIL-24.05.23-%EB%AA%A9%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.23 목요일</a>
+3. <a href="https://velog.io/@asdfg7123/TIL-24.05.22-%EC%88%98%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.22 수요일</a>
+4. <a href="https://velog.io/@asdfg7123/TIL-24.05.21-%ED%99%94%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.21 화요일</a>
+5. <a href="https://velog.io/@asdfg7123/TIL-24.05.20-%EC%9B%94%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.20 월요일</a>
 
 <!-- LATEST_TILS_END -->
 </details>
