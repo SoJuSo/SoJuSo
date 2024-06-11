@@ -28,11 +28,11 @@
   <summary>최근 TIL 작성 목록</summary>
 <!-- LATEST_TILS -->
 
-1. <a href="https://velog.io/@asdfg7123/TIL-24.06.08-%ED%86%A0%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.06.08 토요일</a>
-2. <a href="https://velog.io/@asdfg7123/TIL-24.06.05" target="_blank">[TIL] 24.06.05</a>
-3. <a href="https://velog.io/@asdfg7123/%EA%B8%B0%EB%A1%9D-24.06.01-03" target="_blank">[기록] 24.06.01 ~ 03</a>
-4. <a href="https://velog.io/@asdfg7123/TIL-24.05.31-%EA%B8%88%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.31 금요일</a>
-5. <a href="https://velog.io/@asdfg7123/TIL-24.05.30-%EB%AA%A9%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.30 목요일</a>
+1. <a href="https://velog.io/@asdfg7123/TIL-24.06.09-%EC%9B%94%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.06.09 월요일</a>
+2. <a href="https://velog.io/@asdfg7123/TIL-24.06.08-%ED%86%A0%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.06.08 토요일</a>
+3. <a href="https://velog.io/@asdfg7123/TIL-24.06.05" target="_blank">[TIL] 24.06.05</a>
+4. <a href="https://velog.io/@asdfg7123/%EA%B8%B0%EB%A1%9D-24.06.01-03" target="_blank">[기록] 24.06.01 ~ 03</a>
+5. <a href="https://velog.io/@asdfg7123/TIL-24.05.31-%EA%B8%88%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.05.31 금요일</a>
 
 <!-- LATEST_TILS_END -->
 </details>
