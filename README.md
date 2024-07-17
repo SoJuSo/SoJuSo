@@ -16,11 +16,11 @@
 <div align="left">
 <!-- LATEST_POSTS -->
 
-1. <a href="https://shqpdltm.tistory.com/56" target="_blank">성장의 이정표, 데브코스 프론트엔드 5기 수료 후기</a>
-2. <a href="https://shqpdltm.tistory.com/55" target="_blank">2024년 2회 정보처리기사 필기 전공자 합격 후기</a>
-3. <a href="https://shqpdltm.tistory.com/54" target="_blank">GitHub README에 기술 블로그 최근 글 자동으로 업데이트 시키기</a>
-4. <a href="https://shqpdltm.tistory.com/53" target="_blank">[프론트엔드 데브코스 월간 회고] 5,6차 단위기간(24.01.19 ~ 24.03.25) 프로젝트 kiwing 회고 (2/2)</a>
-5. <a href="https://shqpdltm.tistory.com/52" target="_blank">자바스크립트 console.log()에 대한 고찰</a>
+1. <a href="https://shqpdltm.tistory.com/57" target="_blank">스테디한 개발자가 되는 원동력</a>
+2. <a href="https://shqpdltm.tistory.com/56" target="_blank">성장의 이정표, 데브코스 프론트엔드 5기 수료 후기</a>
+3. <a href="https://shqpdltm.tistory.com/55" target="_blank">2024년 2회 정보처리기사 필기 전공자 합격 후기</a>
+4. <a href="https://shqpdltm.tistory.com/54" target="_blank">GitHub README에 기술 블로그 최근 글 자동으로 업데이트 시키기</a>
+5. <a href="https://shqpdltm.tistory.com/53" target="_blank">[프론트엔드 데브코스 월간 회고] 5,6차 단위기간(24.01.19 ~ 24.03.25) 프로젝트 kiwing 회고 (2/2)</a>
 
 <!-- LATEST_POSTS_END -->
 </div>
