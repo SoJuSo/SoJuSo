@@ -24,8 +24,8 @@
 
 <!-- LATEST_POSTS_END -->
 </div>
-<details>
-  <summary>최근 TIL 작성 목록</summary>
+<details open>
+  <summary>최근 TIL & 번역 작성 목록</summary>
 <!-- LATEST_TILS -->
 
 1. <a href="https://velog.io/@asdfg7123/%EB%B2%88%EC%97%AD-Node.js%EC%97%90%EC%84%9C-TypeScript%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%A4%ED%97%98%EC%A0%81-%EA%B8%B0%EB%8A%A5%EC%9D%B4-%EC%B6%94%EA%B0%80%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4" target="_blank">[번역] Node.js에서 TypeScript에 대한 실험적 기능이 추가되었습니다.</a>
