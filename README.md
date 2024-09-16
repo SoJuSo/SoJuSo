@@ -16,11 +16,11 @@
 <div align="left">
 <!-- LATEST_POSTS -->
 
-1. <a href="https://shqpdltm.tistory.com/60" target="_blank">도둑맞은 집중력 | 요한 하리</a>
-2. <a href="https://shqpdltm.tistory.com/59" target="_blank">토스 개발자 컨퍼런스 SLASH24 신청</a>
-3. <a href="https://shqpdltm.tistory.com/58" target="_blank">두 번째 컨퍼런스, 2024 인프콘에서 얻은 배움</a>
-4. <a href="https://shqpdltm.tistory.com/57" target="_blank">스테디한 개발자가 되는 원동력</a>
-5. <a href="https://shqpdltm.tistory.com/56" target="_blank">성장의 이정표, 데브코스 프론트엔드 5기 수료 후기</a>
+1. <a href="https://shqpdltm.tistory.com/61" target="_blank">`나` 톺아보기 feat.글또</a>
+2. <a href="https://shqpdltm.tistory.com/60" target="_blank">도둑맞은 집중력 | 요한 하리</a>
+3. <a href="https://shqpdltm.tistory.com/59" target="_blank">토스 개발자 컨퍼런스 SLASH24 신청</a>
+4. <a href="https://shqpdltm.tistory.com/58" target="_blank">두 번째 컨퍼런스, 2024 인프콘에서 얻은 배움</a>
+5. <a href="https://shqpdltm.tistory.com/57" target="_blank">스테디한 개발자가 되는 원동력</a>
 
 <!-- LATEST_POSTS_END -->
 </div>
