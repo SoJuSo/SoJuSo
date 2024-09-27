@@ -5,11 +5,19 @@
 [![Tistory Badge](https://img.shields.io/badge/기록_블로그-shqpdltm.tistory.com-ff5a4a?style=flat-square&logo=Tistory)](https://shqpdltm.tistory.com/)
 [![Velog Badge](https://img.shields.io/badge/TIL&번역_Velog-@asdfg7123-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@asdfg7123/)
 
+## 📚History
+| Type | Date | Details | Organization |
+| :---: | :---: | :---: | :---: |
+| UNIV | 17.03 ~ 25.02 | Department of Software | Ajou Univ |
+| EDU | 23.09 ~ 24.03 | 프로그래머스 데브코스 FE 5기 | Programmers |
+| Community | 24.09 ~ | 글또 10기 | 글또 |
+
 ## ✨ SKILL
 
-| Language                                                   | Libraries <br /> Frameworks                                         | Dev Styles                                                                      |                                                                        Infra & DevOps                                                                        |
-| ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=js,ts&perline="/> | <img src="https://skillicons.dev/icons?i=react,vue&perline="/><br/> | <img src="https://skillicons.dev/icons?i=styledcomponents,sass&perline="/><br/> | <img src="https://skillicons.dev/icons?i=aws,vercel,vite&perline="/> <br/> <img src="https://skillicons.dev/icons?i=githubactions,ubuntu,discord&perline="/> |
+| Language                                                   | Libraries <br /> Frameworks                                         | Dev Styles                                                                      |                                                                        Infra & DevOps                                                                        | Studying                                          |
+| ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=js,ts&perline="/> | <img src="https://skillicons.dev/icons?i=react,vue&perline="/><br/> | <img src="https://skillicons.dev/icons?i=styledcomponents,sass&perline="/><br/> | <img src="https://skillicons.dev/icons?i=aws,vercel,vite&perline="/> <br/> <img src="https://skillicons.dev/icons?i=githubactions,ubuntu,discord&perline="/> | <img src="https://skillicons.dev/icons?i=nextjs"/> |
+
 
 ## 📄 최근 블로그 포스팅
 
@@ -37,6 +45,7 @@
 <!-- LATEST_TILS_END -->
 </details>
 
+<!--
 ## 🎯커밋 챌린지 from 2023.09.14
 
 <div align="center">
@@ -44,7 +53,8 @@
     <img src="https://streak-stats.demolab.com?user=sojuso" alt="GitHub Streak">
   </a>
 </div>
-
+-->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfg7123)](https://solved.ac/asdfg7123/) -->
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoJuSo&count_bg=%2350A1DF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/SoJuSo)
