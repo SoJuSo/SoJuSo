@@ -24,11 +24,11 @@
 <div align="left">
 <!-- LATEST_POSTS -->
 
-1. <a href="https://shqpdltm.tistory.com/63" target="_blank">React와 Vite에서 번들 용량 최적화 방법</a>
-2. <a href="https://shqpdltm.tistory.com/61" target="_blank">`나` 톺아보기 feat.글또</a>
-3. <a href="https://shqpdltm.tistory.com/60" target="_blank">도둑맞은 집중력 | 요한 하리</a>
-4. <a href="https://shqpdltm.tistory.com/59" target="_blank">토스 개발자 컨퍼런스 SLASH24 신청</a>
-5. <a href="https://shqpdltm.tistory.com/58" target="_blank">두 번째 컨퍼런스, 2024 인프콘에서 얻은 배움</a>
+1. <a href="https://shqpdltm.tistory.com/64" target="_blank">[1일 1커밋 1년 회고] 1일 1커밋을 시작하려는 사람들에게</a>
+2. <a href="https://shqpdltm.tistory.com/63" target="_blank">React와 Vite에서 번들 용량 최적화 방법</a>
+3. <a href="https://shqpdltm.tistory.com/61" target="_blank">`나` 톺아보기 feat.글또</a>
+4. <a href="https://shqpdltm.tistory.com/60" target="_blank">도둑맞은 집중력 | 요한 하리</a>
+5. <a href="https://shqpdltm.tistory.com/59" target="_blank">토스 개발자 컨퍼런스 SLASH24 신청</a>
 
 <!-- LATEST_POSTS_END -->
 </div>
