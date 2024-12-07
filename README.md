@@ -36,11 +36,11 @@
   <summary>최근 TIL & 번역 작성 목록</summary>
 <!-- LATEST_TILS -->
 
-1. <a href="https://velog.io/@asdfg7123/TIL-%EB%8B%B9%EA%B7%BC-%ED%85%8C%ED%81%AC%EB%B0%8B%EC%97%85-%EB%8B%B9%EC%B2%A8%EB%90%A0%EB%BB%94%ED%95%9C-%ED%9B%84%EA%B8%B0" target="_blank">[일기] 당근 테크밋업 당첨될뻔한 후기</a>
-2. <a href="https://velog.io/@asdfg7123/TIL-Slash-24-%EC%95%84%EC%A3%BC%EB%8C%80-%EC%BB%A4%EB%A6%AC%EC%96%B4%ED%8E%98%EC%96%B4" target="_blank">[TIL] Slash 24 & 아주대 커리어페어 | 글또 10기</a>
-3. <a href="https://velog.io/@asdfg7123/%ED%86%A0%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-slash24-%EC%8B%A0%EC%B2%AD" target="_blank">토스 개발자 컨퍼런스 slash24 신청</a>
-4. <a href="https://velog.io/@asdfg7123/%EB%B2%88%EC%97%AD-Node.js%EC%97%90%EC%84%9C-TypeScript%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%A4%ED%97%98%EC%A0%81-%EA%B8%B0%EB%8A%A5%EC%9D%B4-%EC%B6%94%EA%B0%80%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4" target="_blank">[번역] Node.js에서 TypeScript에 대한 실험적 기능이 추가되었습니다.</a>
-5. <a href="https://velog.io/@asdfg7123/TIL-24.07.31-%EC%88%98%EC%9A%94%EC%9D%BC" target="_blank">[TIL] 24.07.31 수요일</a>
+1. <a href="https://velog.io/@asdfg7123/%EC%A3%BC%EB%8B%A8%EC%9C%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-24%EB%85%84-49%EC%A3%BC%EC%B0%A8" target="_blank">[주단위 회고록] 24년 49주차</a>
+2. <a href="https://velog.io/@asdfg7123/TIL-%EB%8B%B9%EA%B7%BC-%ED%85%8C%ED%81%AC%EB%B0%8B%EC%97%85-%EB%8B%B9%EC%B2%A8%EB%90%A0%EB%BB%94%ED%95%9C-%ED%9B%84%EA%B8%B0" target="_blank">[일기] 당근 테크밋업 당첨될뻔한 후기</a>
+3. <a href="https://velog.io/@asdfg7123/TIL-Slash-24-%EC%95%84%EC%A3%BC%EB%8C%80-%EC%BB%A4%EB%A6%AC%EC%96%B4%ED%8E%98%EC%96%B4" target="_blank">[TIL] Slash 24 & 아주대 커리어페어 | 글또 10기</a>
+4. <a href="https://velog.io/@asdfg7123/%ED%86%A0%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-slash24-%EC%8B%A0%EC%B2%AD" target="_blank">토스 개발자 컨퍼런스 slash24 신청</a>
+5. <a href="https://velog.io/@asdfg7123/%EB%B2%88%EC%97%AD-Node.js%EC%97%90%EC%84%9C-TypeScript%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%A4%ED%97%98%EC%A0%81-%EA%B8%B0%EB%8A%A5%EC%9D%B4-%EC%B6%94%EA%B0%80%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4" target="_blank">[번역] Node.js에서 TypeScript에 대한 실험적 기능이 추가되었습니다.</a>
 
 <!-- LATEST_TILS_END -->
 </details>
