@@ -25,11 +25,11 @@
 <div align="left">
 <!-- LATEST_POSTS -->
 
-1. <a href="https://shqpdltm.tistory.com/66" target="_blank">2024 신입 프론트엔드 개발자 취준 회고 2편</a>
-2. <a href="https://shqpdltm.tistory.com/65" target="_blank">2024 신입 프론트엔드 개발자 취준 회고 1편</a>
-3. <a href="https://shqpdltm.tistory.com/64" target="_blank">[1일 1커밋 1년 회고] 1일 1커밋을 시작하려는 사람들에게</a>
-4. <a href="https://shqpdltm.tistory.com/63" target="_blank">React와 Vite에서 번들 용량 최적화 방법</a>
-5. <a href="https://shqpdltm.tistory.com/61" target="_blank">`나` 톺아보기 feat.글또</a>
+1. <a href="https://shqpdltm.tistory.com/67" target="_blank">뒤늦게 올리는 맹그로브 제주의 추억(11/18 ~ 11/20)</a>
+2. <a href="https://shqpdltm.tistory.com/66" target="_blank">2024 신입 프론트엔드 개발자 취준 회고 2편</a>
+3. <a href="https://shqpdltm.tistory.com/65" target="_blank">2024 신입 프론트엔드 개발자 취준 회고 1편</a>
+4. <a href="https://shqpdltm.tistory.com/64" target="_blank">[1일 1커밋 1년 회고] 1일 1커밋을 시작하려는 사람들에게</a>
+5. <a href="https://shqpdltm.tistory.com/63" target="_blank">React와 Vite에서 번들 용량 최적화 방법</a>
 
 <!-- LATEST_POSTS_END -->
 </div>
